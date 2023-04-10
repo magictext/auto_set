@@ -1,7 +1,7 @@
 <idea-plugin>
-    <id>de.kontext_e.idea.plugins.autofill</id>
-    <name>Auto filling Java call arguments</name>
-    <version>1.1</version>
+    <id>com.github.idea.plugins.autofill.AutoSet</id>
+    <name>Auto filling object field</name>
+    <version>1.0.0</version>
     <vendor email="j.nerche@kontext-e.de" url="http://www.kontext-e.de">Kontext E GmbH</vendor>
 
     <description><![CDATA[
